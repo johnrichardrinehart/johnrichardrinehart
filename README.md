@@ -36,18 +36,19 @@ My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=green)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/johnrichardrinehart/johnrichardrinehart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrichardrinehart&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="John Rinehart's GitHub Stats" />
-</a>
+<div style="display:flex;flex-direction:column;">
+  <a href="https://github.com/johnrichardrinehart/johnrichardrinehart" style="margin:10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrichardrinehart&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="John Rinehart's GitHub Stats" />
+  </a>
 
-<a href="https://github.com/johnrichardrinehart/johnrichardrinehart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnrichardrinehart&hide=mathematica,tex,matlab,java,css,javascript,vim%20script&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+  <a href="https://github.com/johnrichardrinehart/johnrichardrinehart" style="margin:10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnrichardrinehart&hide=mathematica,tex,matlab,java,css,javascript,vim%20script&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  </a>
 
-<a href="https://github.com/johnrichardrinehart/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnrichardrinehart&repo=nix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+  <a href="https://github.com/johnrichardrinehart/python-project-blueprint" style="margin:10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnrichardrinehart&repo=nix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</div>
 
 
 <!-- links to social media icons -->
