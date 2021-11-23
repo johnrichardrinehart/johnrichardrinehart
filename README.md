@@ -1,4 +1,4 @@
-<!-- (jrr): the below was shamelessly copied from https://raw.githubusercontent.com/johnrichardrinehart/johnrichardrinehart/master/README.md -->
+<!-- (jrr): the below was shamelessly copied from https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/README.md -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 <!--
@@ -7,7 +7,7 @@
 
 # 👋 Hey!
 
-My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from [📍](https://www.lyndenwa.org/), living in [📍](https://www.google.com/maps/place/Ukraine/@48.255819,26.6908409,6z/data=!3m1!4b1!4m5!3m4!1s0x40d1d9c154700e8f:0x1068488f64010!8m2!3d48.379433!4d31.1655799) and currently working at [![Ardan Labs][1.0]][0]. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
+My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from [📍](https://www.lyndenwa.org/), living in [📍](https://www.google.com/maps/place/Ukraine/@48.255819,26.6908409,6z/data=!3m1!4b1!4m5!3m4!1s0x40d1d9c154700e8f:0x1068488f64010!8m2!3d48.379433!4d31.1655799) and currently working at [![Ardan Labs][1.0]][0]. You can find me on <a href="https://twitter.com/fuzzybear3965"><img src="https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon.ico" alt="Twitter" width="20"></a> or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ### Development Environment
@@ -58,7 +58,7 @@ My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon.ico (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a (LinkedIn icon without padding)
 
