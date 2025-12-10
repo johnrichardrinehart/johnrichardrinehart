@@ -7,7 +7,7 @@
 
 # 👋 Hey!
 
-My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from [📍](https://www.lyndenwa.org/), living in [📍](https://www.google.com/maps/place/Ukraine/@48.255819,26.6908409,6z/data=!3m1!4b1!4m5!3m4!1s0x40d1d9c154700e8f:0x1068488f64010!8m2!3d48.379433!4d31.1655799) and currently working at [![Ardan Labs][1.0]][0]. You can find me on <a href="https://twitter.com/fuzzybear3965"><img src="https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon.ico" alt="Twitter" width="20"></a> or on [![LinkedIn][3.2]][3].
+My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from [📍](https://www.lyndenwa.org/), living in [📍](https://www.google.com/maps/place/Ukraine/@48.255819,26.6908409,6z/data=!3m1!4b1!4m5!3m4!1s0x40d1d9c154700e8f:0x1068488f64010!8m2!3d48.379433!4d31.1655799) and currently working at <img src="https://www.ardanlabs.com/favicon.png" width="20" alt="Ardan Labs"></img>. You can find me on <a href="https://twitter.com/fuzzybear3965"><img src="https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon.ico" alt="Twitter" width="20"></a> or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ### Development Environment
@@ -54,7 +54,6 @@ My name is John Rinehart and I'm a software developer/DevOps engineer. I'm from 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
-[1.0]: https://www.ardanlabs.com/favicon.ico
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
